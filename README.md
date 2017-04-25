@@ -1,6 +1,8 @@
 # sysPass.NET
 **sysPass** is .NET sysPass API library which is incredible easy to use thanks to C# dynamic objects.
 
+NOT PRODUCTION READY
+
 Example (List customers with filter and create a new customer:
 ```
             sysPass sysPassConn = new sysPass("http://sysPass.tld/sysPass/api.php", "ecbacg9d9c65c957a7h10d83dfe675e8ef27a912af6b4bcbaa5g0bcd8ie7b4aa", null, null);
