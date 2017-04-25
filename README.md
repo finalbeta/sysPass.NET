@@ -1,5 +1,5 @@
 # sysPass.NET
-**sysPass.NET** is a C# Library allowing easy to use access to the sysPass ( https://syspass.org ) API which is incredible easy to use thanks to C# dynamic objects.
+**sysPass.NET** is a C# Library allowing access to the sysPass ( https://syspass.org ) API which is incredible easy to use thanks to C# dynamic objects.
 
 NOT PRODUCTION READY
 
